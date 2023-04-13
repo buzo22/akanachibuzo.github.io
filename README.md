@@ -12,9 +12,9 @@ This repository is a collection of data analytics projects that I have worked on
 * Project 1: Call Trend Analysis 
 * Project 2: Churn Rate Analysis
 * Project 3: Data Professional Survey
-* Project 3: Netflix Movies Viewership
-* Project 3: Pizza Sales Analysis
-* Project 3: Sales Performance Analysis
+* Project 4: Netflix Movies Viewership
+* Project 5: Pizza Sales Analysis
+* Project 6: Sales Performance Analysis
 ### Installation
 To run the projects in this repository, you will need to have Python and R installed on your computer.
 
